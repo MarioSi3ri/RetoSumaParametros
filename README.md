@@ -187,7 +187,8 @@ public int suma(int valor1, int valor2) {
 
 **MarioSi3ri**
 
-Repositorio: [RetoSumaParametros](https://github.com/MarioSi3ri/RetoSumaParametros)
+- Repositorio: [RetoSumaParametros](https://github.com/MarioSi3ri/RetoSumaParametros)
+- Copilot ayudó a mejorar el presente archivo README.
 
 ## 📄 Licencia
 
