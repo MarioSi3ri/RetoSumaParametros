@@ -35,7 +35,7 @@
 
 La aplicación se ejecuta desde la consola. En el método `main` se crea una instancia de la clase `Reto` y se invoca el método `suma` con los valores `10` y `5`.
 
-> Este proyecto corresponde al **Reto 6: suma de dos parámetros establecidos**.
+> Este proyecto corresponde al **Reto 6: suma de dos parámetros establecidos** de la UVEG.
 
 ## 🎯 Objetivo de aprendizaje
 
@@ -187,8 +187,14 @@ public int suma(int valor1, int valor2) {
 
 **MarioSi3ri**
 
-Repositorio: [MarioSi3ri/RetoSumaParametros](https://github.com/MarioSi3ri/RetoSumaParametros)
+Repositorio: [RetoSumaParametros](https://github.com/MarioSi3ri/RetoSumaParametros)
 
 ## 📄 Licencia
 
-Este proyecto se publica con fines educativos. Actualmente no se ha definido una licencia específica para el repositorio.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
+
+---
+
+<p align="center">
+  Desarrollado con Java & Maven como proyecto académico de programación.
+</p>
